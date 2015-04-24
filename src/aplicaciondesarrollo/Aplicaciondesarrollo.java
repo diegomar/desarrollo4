@@ -17,6 +17,5 @@ public class Aplicaciondesarrollo {
         // TODO code application logic here
     int a= 1; // Wendy
     int b=2; //Christian
-    int c=3; //dani
     }
 }
