@@ -15,7 +15,7 @@ public class Aplicaciondesarrollo {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-    int a= 1; // Wendy
+    int a= 1; // Wendy Zambrano
     int b=2; //Christian
     int c=3; //dani
     }
