@@ -19,5 +19,6 @@ public class Aplicaciondesarrollo {
     int b=2; //Christian
     int c=3; //dani
     int j=4; //Chris
+    int s=5;
     }
 }
