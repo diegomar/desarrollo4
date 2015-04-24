@@ -9,8 +9,6 @@ package aplicaciondesarrollo;
  *
  * @author User
  */
-public class AlarconChristian {
-    
-    //nueva clase
+public class Alarcon {
     
 }
